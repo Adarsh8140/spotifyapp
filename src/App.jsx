@@ -265,7 +265,7 @@ function App() {
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-outline-dark"
-                href="https://github.com/Adarsh8140/spotifyapp"
+                href="https://github.com/Adarsh8140/spotifyapp/"
               >
                 <i className="bi bi-github mx-2"></i>Github
               </a>
