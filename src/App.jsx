@@ -255,7 +255,7 @@ function App() {
           </div>
         </div>
         {/* <div class=" image-section"> */}
-        <img src="bg-img1.png" class=" img-fluid float-end" alt="..."></img>
+        <img src="./bg-img1.png" class=" img-fluid float-end" alt="..."></img>
         {/* </div> */}
         <div className="row">
           {/* <div class="row image-section">
