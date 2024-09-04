@@ -273,7 +273,7 @@ function App() {
                 className="btn btn-outline-dark"
                 href="https://github.com/Adarsh8140/spotifyapp"
               >
-                <i className="bi bi-github mx-2"></i>Github
+                <i className="bi bi-github mx-2"></i>Github inox
               </a>
             </div>
           </div>
