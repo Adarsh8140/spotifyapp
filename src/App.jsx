@@ -254,7 +254,13 @@ function App() {
             <h4 className="text-center text-danger py-2">{message}</h4>
           </div>
         </div>
+        {/* <div class=" image-section"> */}
+        <img src="bg-img1.png" class=" img-fluid float-end" alt="..."></img>
+        {/* </div> */}
         <div className="row">
+          {/* <div class="row image-section">
+            <img src="bg-img1.png" class=" img-fluid float-end" alt="..."></img>
+          </div> */}
           <div className="col-12 py-5 text-center">
             <h1>
               <i class="bi bi-music-note-beamed mx-3"></i> MusicBox
